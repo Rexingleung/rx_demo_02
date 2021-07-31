@@ -1,0 +1,29 @@
+{
+  "name": "rx_demo_02",
+  "version": "1.0.0",
+  "description": "个人测试npm包",
+  "keywords": [
+    "rx_demo_02"
+  ],
+  "author": "梁润星 <rexingleung@126.com>",
+  "homepage": "https://github.com/Rexingleung/rx_demo_02",
+  "license": "ISC",
+  "main": "lib/rx_demo_02.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rexingleung/rx_demo_02.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Rexingleung/rx_demo_02/issues"
+  }
+}
